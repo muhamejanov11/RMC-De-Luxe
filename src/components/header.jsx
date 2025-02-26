@@ -1,6 +1,6 @@
 import img1 from "../assets/Frame 2.png"
 import logo from "../assets/iconamoon_arrow-up-2-light.png"
-import logo1 from "../assets/call3.png"
+import logo1 from "../assets/call.png"
 import logo2 from "../assets/call2.png"
 import logo3 from "../assets/call1.png"
 import logo4 from "../assets/Pages.png"

@@ -1,6 +1,6 @@
 import img1 from "../assets/Frame 2.png"
 import logo from "../assets/iconamoon_arrow-up-2-light.png"
-import logo1 from "../assets/call.png"
+import callImage from "../assets/call.png";
 import logo2 from "../assets/call2.png"
 import logo3 from "../assets/call1.png"
 import logo4 from "../assets/Pages.png"
@@ -19,7 +19,7 @@ const Header = () => {
                 <p className="text-[20px] font-[400] text-[black]">Контакты</p>
             </div>
             <div className="flex gap-3">
-                <img className="w-[50px] h-[50px]" src={logo1} alt="" />
+                <img className="w-[50px] h-[50px]" src={callImage} alt="" />
                 <img className="w-[50px] h-[50px]" src={logo2} alt="" />
                 <img className="w-[50px] h-[50px]" src={logo3} alt="" />
                 <img className="w-[79px] h-[50px]" src={logo4} alt="" />

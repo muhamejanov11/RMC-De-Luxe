@@ -1,8 +1,8 @@
 import img1 from "../assets/Frame 2.png"
 import logo from "../assets/iconamoon_arrow-up-2-light.png"
-import callImage from "../assets/call.png";
-import logo2 from "../assets/call2.png"
-import logo3 from "../assets/call1.png"
+import callImage from "../assets/Сall.png";
+import logo2 from "../assets/Сall2.png"
+import logo3 from "../assets/Сall1.png"
 import logo4 from "../assets/Pages.png"
 
 const Header = () => {
